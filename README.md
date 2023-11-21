@@ -36,10 +36,10 @@ Code Examples
 Features
 
 - Lambda Expressions:
-  LambdaExpressions.java
+  LambdaExpressionExample.java
 
 - Functional Interfaces:
-  FunctionalInterfaces.java
+  FunctionalInterfaceExample.java
 
 - Streams:
   StreamsExample.java
