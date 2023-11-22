@@ -42,7 +42,7 @@ Features
   FunctionalInterfaceExample.java
 
 - Streams:
-  StreamsExample.java
+  StreamExample.java
 
 - Default Methods:
   DefaultMethods.java
