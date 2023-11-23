@@ -45,7 +45,7 @@ Features
   StreamExample.java
 
 - Default Methods:
-  DefaultMethods.java
+  DefaultMethodExample.java
 
 - Method References:
   MethodReferences.java
