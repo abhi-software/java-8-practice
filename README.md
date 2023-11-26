@@ -48,7 +48,7 @@ Features
   DefaultMethodExample.java
 
 - Method References:
-  MethodReferences.java
+  MethodReferenceExample1.java/MethodReferenceExample2.java/MethodReferenceExample3.java/MethodReferenceExample4.java
 
 - Optional:
   OptionalExample.java
